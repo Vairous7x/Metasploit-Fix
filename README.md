@@ -5,8 +5,10 @@ You can now get rid of all metasploit problems on all different Android versions
 
 1- git clone https://github.com/Vairous7x/Metasploit-Fix
 
-2- bash metasploit.sh
+2- cd Metasploit-Fix
 
-3- msfconsole 
+3- bash metasploit.sh
 
-Enjoy ^_^
+4- msfconsole 
+
+Happy Coding ^_^
